@@ -8,7 +8,7 @@ In this tutorial i have reviewing Stateful and Stateless Widgets as well as lear
 
 I have going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
-![Finished App]()
+![Finished App](https://github.com/ayushtiwari653/quizzler/blob/master/quizzler.gif)
 
 ## What i have learned
 
